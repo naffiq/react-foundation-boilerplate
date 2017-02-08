@@ -22,4 +22,4 @@ or
 ```bash
 $ node node_modules/webpack/bin/webpack.js -w
 ```
-in case if you have no global installation of webpack.
+in case you have no global installation of webpack.

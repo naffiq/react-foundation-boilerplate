@@ -1,5 +1,7 @@
 # React + Foundation Boilerplate
 
+[![Build Status](https://travis-ci.org/naffiq/react-foundation-boilerplate.svg?branch=master)](https://travis-ci.org/naffiq/react-foundation-boilerplate)
+
 Includes react router, Foundation CSS framework, SASS loader and tests boilerplate with karma, mocha and expect
 
 ## Running

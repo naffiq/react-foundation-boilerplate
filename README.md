@@ -1,6 +1,6 @@
 # React + Foundation Boilerplate
 
-Includes react router, Foundation CSS framework and SASS loader
+Includes react router, Foundation CSS framework, SASS loader and tests boilerplate with karma, mocha and expect
 
 ## Running
 
